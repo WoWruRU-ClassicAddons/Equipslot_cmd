@@ -1,0 +1,8 @@
+## Interface: 11200
+## Title: |cFFFF8080<Equipslot CMD>|r
+## Notes: Bad Company algorithms
+## Notes-ruRU: Аддон добавляет команду /equipslot (Команда для автоматического одевания в указанный слот указанной вещи)
+## Author: Lyaus
+## Version: 1.0
+
+Equipslot_cmd.lua
